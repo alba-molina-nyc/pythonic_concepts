@@ -12,3 +12,5 @@ def searchDict(dict,value):
     return f'the value {value} does not exist in this {dict}'
 
 print(searchDict(myDict, 26))
+
+
